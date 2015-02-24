@@ -1,3 +1,6 @@
+# Problem - http://community.topcoder.com/stat?c=problem_statement&pm=13006&rd=15846
+
+
 def getanswer(string):
 	#print string
 	for element in string:
